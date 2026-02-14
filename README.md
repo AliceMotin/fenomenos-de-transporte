@@ -22,4 +22,4 @@ Projeto criado para a disciplina de Fenômenos de Transporte.
 - NumPy
 
 ## Documentação
-Para mais detalhes técnicos, consulte o documento completo do projeto disponível no repositório.
+Para mais detalhes técnicos consulte o documento completo do projeto disponível no repositório.
