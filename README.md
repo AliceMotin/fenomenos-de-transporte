@@ -23,3 +23,7 @@ Projeto criado para a disciplina de Fenômenos de Transporte.
 
 ## Documentação
 Para mais detalhes técnicos consulte o documento completo do projeto disponível no repositório.
+
+## 👩‍💻 **Desenvolvido por:**  
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/112569754?v=4" width=115><br><sub>Alice Motin</sub>](https://github.com/AliceMotin) | 
+| :---: |
